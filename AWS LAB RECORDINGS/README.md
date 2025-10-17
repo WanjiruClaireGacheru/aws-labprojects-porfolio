@@ -14,4 +14,4 @@ Find all recordings here(https://docs.google.com/spreadsheets/d/1X0ogJqIFsS-bUcs
 1️⃣ S3 Static Website Hosting
 - Description: Created and configured an Amazon S3 bucket to host a static website.
 - Services Used: S3, IAM, Bucket Policy
-- YouTube Link: (https://youtu.be/4N4YFp_xtHQ)
+- YouTube Link: (https://www.youtube.com/watch?v=w_l2_sXarUc)
